@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="galeria2.xsl"?>
+<galeria>
+
+<imagen numero="Seat">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche1xml2.jpg"/>
+  <nombre>Seat</nombre>
+</imagen>
+
+<imagen numero="Opel">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche2xml2.jpg"/>
+  <nombre>Opel</nombre>
+</imagen>
+
+<imagen numero="Renault">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche3xml2.jpg"/>
+  <nombre>Renault</nombre>
+</imagen>
+
+<imagen numero="Peugeot">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche4xml2.jpg"/>
+  <nombre>Peugeot</nombre>
+</imagen>
+
+<imagen numero="Volkswagen">
+  <dibujo ruta="../imagenes/ImagenesGlobal/coche5xml2.jpg"/>
+  <nombre>Volkswagen</nombre>
+</imagen>
+
+</galeria>
